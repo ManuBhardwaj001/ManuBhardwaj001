@@ -5,7 +5,7 @@
 </b>
 </h3>
 <p align="center">
-  <a href="https://github.com/Manubhardwaj001"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1003&center=true&vCenter=true&color=7C3DFF96&random=false&width=435&height=52&lines=Frontend+Developer;Tech+Enthusiast" alt="Typing SVG" /></a></a>
+  <a target="_blank" href="https://github.com/Manubhardwaj001"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1003&center=true&vCenter=true&color=7C3DFF96&random=false&width=435&height=52&lines=Frontend+Developer;Tech+Enthusiast" alt="Typing SVG" /></a></a>
 </p>
 <p align="center">     
     「 I am a full stack web application developer from <b>Bharat</b> 」
@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-<a href="https://in.linkedin.com/in/manu-bhardwaj-467290282">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" target="_blank">
-<a href="https://stackoverflow.com/users/23446755/manu-bhardwaj">
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow" target="_blank">
-<a href="https://www.quora.com/profile/Manu-Bhardwaj-44" target="_blank">
+<a target="_blank" href="https://in.linkedin.com/in/manu-bhardwaj-467290282">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin">
+<a target="_blank" href="https://stackoverflow.com/users/23446755/manu-bhardwaj">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow">
+<a target="_blank" href="https://www.quora.com/profile/Manu-Bhardwaj-44">
 <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="quora">
 </p>
 
