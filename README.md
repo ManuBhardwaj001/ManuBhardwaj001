@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-<a href="https://codingwhisperer.web.app/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin">
-<a href="https://codingwhisperer.web.app/">
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow">
-<a href="https://codingwhisperer.web.app/">
+<a href="https://in.linkedin.com/in/manu-bhardwaj-467290282">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" target="_blank">
+<a href="https://stackoverflow.com/users/23446755/manu-bhardwaj">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stackoverflow" target="_blank">
+<a href="https://www.quora.com/profile/Manu-Bhardwaj-44" target="_blank">
 <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt="quora">
 </p>
 
