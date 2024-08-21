@@ -28,7 +28,6 @@
 
 <p>
  <img align="right" width="350" src="./assets/frontenddev.gif" alt="Animated" />
-👯 &emsp; I am looking for a <code style="color:#9DAAF2"> frontend developer job</code>.<br/><br/>
 ✌️ &emsp; Enjoy in <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">learning new things</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Node.js </code> and <code style="color:#9DAAF2">Express.js</code><br/><br/>
 📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=manubhardwaj615@gmail.com"> manubhardwaj615@gmail.com</a><br/><br/>
