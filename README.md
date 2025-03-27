@@ -5,7 +5,7 @@
 </b>
 </h3>
 <p align="center">
-  <a target="_blank" href="https://github.com/Manubhardwaj001"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1003&center=true&vCenter=true&color=7C3DFF96&random=false&width=435&height=52&lines=Full+stack+Developer;Network+Security+Cybersecurity+Enthusiast" alt="Typing SVG" /></a></a>
+  <a target="_blank" href="https://github.com/Manubhardwaj001"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1003&center=true&vCenter=true&color=7C3DFF96&random=false&width=435&height=52&lines=Full+stack+Developer;Network+Security+&+Cybersecurity+Enthusiast" alt="Typing SVG" /></a></a>
 </p>
 <p align="center">     
     「 I am a full stack web application developer from <b>Bharat</b> 」
